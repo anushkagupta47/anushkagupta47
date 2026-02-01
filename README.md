@@ -1,10 +1,10 @@
 <div align="center">
-<h1>Anushka Gupta</h1>
-<h3>Final Year B.Tech CSE (AI) | Aspiring Software & AI Engineer</h3>
-
-<p align="center">
-<img src="[https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+AI+Solutions;Full+Stack+Software+Developer;Data+Science+Enthusiast;Incoming+Intern+@+India+Space+Lab&center=true&width=500&height=45&font=Fira+Code&color=00C4CC&vCenter=true&pause=1000](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Flines%3DBuilding%2BScalable%2BAI%2BSolutions%3BFull%2BStack%2BSoftware%2BDeveloper%3BData%2BScience%2BEnthusiast%3BIncoming%2BIntern%2B%40%2BIndia%2BSpace%2BLab%26center%3Dtrue%26width%3D500%26height%3D45%26font%3DFira%2BCode%26color%3D00C4CC%26vCenter%3Dtrue%26pause%3D1000)" alt="Typing SVG" />
-</p>
+  <h1>Anushka Gupta</h1>
+  <h3>Final Year B.Tech CSE (AI) | Aspiring Software & AI Engineer</h3>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+AI+Solutions;Full+Stack+Software+Developer;Data+Science+Enthusiast;Incoming+Intern+@+India+Space+Lab&center=true&width=500&height=45&font=Fira+Code&color=00C4CC&vCenter=true&pause=1000" alt="Typing SVG" />
+  </p>
 </div>
 
 ---
@@ -14,69 +14,31 @@
 I am a final-year Computer Science Engineering student at **Babu Banarasi Das University** with a specialization in **Artificial Intelligence**. I specialize in bridging the gap between hardware and software through IoT and developing secure, data-driven AI systems.
 
 * 🔭 **What I’m Building:** Currently engaging in technical training and project-based learning in space technology as a **Winter Intern at India Space Lab**.
-
-
 * 🧩 **Problems I Solve:** I enjoy optimizing model scalability and architecting data pipelines to handle complex processing tasks in production environments.
-
-
 * 🎯 **Target Roles:** Actively seeking Entry-level roles in **Software Engineering**, **AI/ML**, and **Data Engineering**.
 * ⚡ **Leadership:** Chairperson of the **IEEE Student Branch at BBDU**, leading a community of 70+ members.
-
-
 
 ---
 
 ### 🛠 Tech Stack
 
 | Category | Skills & Tools |
-| --- | --- |
-| **Languages** |  |
-| **AI / ML** |  |
-| **Data & Analysis** |  |
-| **Platforms** |  |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Data & Analysis** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black) |
+| **Platforms** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
 
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Problem Statement | Tech Stack | Outcome / Impact |
-| --- | --- | --- | --- |
-| <br>**Smart Bin IoT Solution** 
-
- | Inefficient waste management and segregation.
-
- | Arduino, IoT, AI Logic.
-
- | Automated segregation system; published in ADG 2025, IEEE CIS.
-
- |
-| <br>**AI Resume Optimiser** 
-
- | Resumes failing to pass through ATS filters.
-
- | Python, NLP, Streamlit.
-
- | Improved resume alignment for candidates through AI-driven generation.
-
- |
-| <br>**Recommendation System** 
-
- | Protecting user data while providing accurate suggestions.
-
- | ML models, Security Protocols.
-
- | Architected a scalable system with enhanced security for user data protection.
-
- |
-| <br>**Unemployment Trend Forecasting** 
-
- | Lack of clarity in volatile market shifts.
-
- | Statsmodels, Time Series.
-
- | Uncovered economic patterns to predict market volatility.
-
- |
+| :--- | :--- | :--- | :--- |
+| **Smart Bin IoT Solution** | Inefficient waste management and segregation. | Arduino, IoT, AI Logic | Automated segregation system; published in ADG 2025, IEEE CIS. |
+| **AI Resume Optimiser** | Resumes failing to pass through ATS filters. | Python, NLP, Streamlit | Improved resume alignment for candidates through AI-driven generation. |
+| **Recommendation System** | Protecting user data while providing accurate suggestions. | ML models, Security Protocols | Architected a scalable system with enhanced security for user data protection. |
+| **Unemployment Trend Forecasting** | Lack of clarity in volatile market shifts. | Statsmodels, Time Series | Uncovered economic patterns to predict market volatility. |
 
 ---
 
@@ -101,30 +63,18 @@ Active problem-solver on LeetCode focusing on optimizing code efficiency.
 
 ### 💡 Why Hire Me?
 
-* 
-**Strong Fundamentals:** Cumulative GPA of 8.0/10 with coursework in Neural Networks, Deep Learning, and DSA.
-
-
-* 
-**Ownership Mindset:** Founded and grew a 70+ member technical community as IEEE Chairperson.
-
-
-* 
-**Industry-Oriented Experience:** Gained practical insights through internships at Deloitte, REXai, and India Space Lab.
-
-
-* 
-**Fast Learner:** Certified in Space Science by ISRO and completed AI Agents training with Google.
-
-
+* **Strong Fundamentals:** Cumulative GPA of 8.0/10 with coursework in Neural Networks, Deep Learning, and DSA.
+* **Ownership Mindset:** Founded and grew a 70+ member technical community as IEEE Chairperson.
+* **Industry-Oriented Experience:** Gained practical insights through internships at Deloitte, REXai, and India Space Lab.
+* **Fast Learner:** Certified in Space Science by ISRO and completed AI Agents training with Google.
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=anushkagupta47&show_icons=true&theme=radical](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Danushkagupta47%26show_icons%3Dtrue%26theme%3Dradical)" alt="GitHub Stats" />
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anushkagupta47&layout=compact&theme=radical](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Danushkagupta47%26layout%3Dcompact%26theme%3Dradical)" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkagupta47&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkagupta47&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -132,11 +82,9 @@ Active problem-solver on LeetCode focusing on optimizing code efficiency.
 ### 📧 Let's Connect
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/anushkagupta47](https://www.linkedin.com/in/anushkagupta47)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" /></a>
-<a href="mailto:anushkag472004@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite)" /></a>
-<a href="[https://leetcode.com/u/anushkagupta47/](https://www.google.com/search?q=https://leetcode.com/u/anushkagupta47/)"><img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack)" /></a>
+<a href="https://www.linkedin.com/in/anushkagupta47"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:anushkag472004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/anushkagupta47/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 **I am open to internships, entry-level roles, and technical collaborations. Let’s build something impactful together!**
-
-Would you like me to create a separate "Experience" section focused specifically on your accomplishments at REXai or Deloitte?
