@@ -10,32 +10,82 @@
   </p>
 </div>
 
-
-CategorySkills & ToolsLanguages<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" />AI / ML<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />Frameworks<img src="https://skillicons.dev/icons?i=django,flask,react" />Data & Analysis<img src="https://skillicons.dev/icons?i=pandas,tableau,powershell" />Platforms<img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" />
----
-
-### 👩‍💻 Professional Profile
-
-I am a final-year Computer Science Engineering student at **Babu Banarasi Das University** specializing in **Artificial Intelligence**. My expertise lies in developing secure, data-driven AI systems and architecting scalable software solutions.
-
-* 🛰️ **Latest Milestone:** Currently a **Winter Technical Intern at India Space Lab** (Enrollment: ISL-564821) specializing in space technology.
-* 🏆 **Leadership:** Serving as the **Chairperson of the IEEE Student Branch at BBDU**, leading a 70+ member community.
-* 🎖️ **Honors:** Recipient of the **IEEE SPS UP Chapter Student Award 2024** for technical leadership.
-
----
-
-### 🛠 Tech Toolbox
-
 <div align="center">
+<img src="[https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Anushka%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=40](https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3Dauto%26height%3D200%26section%3Dheader%26text%3DAnushka%2520Gupta%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D40)" width="100%" />
 
-| **Category** | **Skills & Technologies** |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" /> |
-| **AI & Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" /> |
-| **Data & Visualization** | <img src="https://skillicons.dev/icons?i=pandas,tableau,powershell" /> |
+<h3>Final Year B.Tech CSE (AI) | Aspiring Software & AI Engineer</h3>
 
+<p align="center">
+<img src="[https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+AI+Solutions;Full+Stack+Software+Developer;Data+Science+Enthusiast;Winter+Intern+@+India+Space+Lab&center=true&width=500&height=45&font=Fira+Code&color=00C4CC&vCenter=true&pause=1000](https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Flines%3DBuilding%2BScalable%2BAI%2BSolutions%3BFull%2BStack%2BSoftware%2BDeveloper%3BData%2BScience%2BEnthusiast%3BWinter%2BIntern%2B%40%2BIndia%2BSpace%2BLab%26center%3Dtrue%26width%3D500%26height%3D45%26font%3DFira%2BCode%26color%3D00C4CC%26vCenter%3Dtrue%26pause%3D1000)" alt="Typing SVG" />
+</p>
 </div>
+
+---
+
+### 👩‍💻 About Me
+
+I am a final-year Computer Science Engineering student at **Babu Banarasi Das University** with a specialization in **Artificial Intelligence**. I specialize in bridging the gap between hardware and software through IoT and developing secure, data-driven AI systems.
+
+* 🔭 **What I’m Building:** Currently engaging in technical training and project-based learning in space technology as a **Winter Intern at India Space Lab**.
+
+
+* 🧩 **Problems I Solve:** I enjoy optimizing model scalability and architecting data pipelines to handle complex processing tasks in production environments.
+
+
+* 🎯 **Target Roles:** Actively seeking entry-level roles in **Software Engineering**, **AI/ML**, and **Data Engineering**.
+
+
+* ⚡ **Leadership:** Chairperson of the **IEEE Student Branch at BBDU**, leading a community of 70+ members.
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Skills & Tools |
+| --- | --- |
+| **Languages** | <img src="[https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,c,cpp,js,html,css,mysql)" /> |
+| **AI / ML** | <img src="[https://skillicons.dev/icons?i=tensorflow,sklearn,opencv](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,sklearn,opencv)" /> |
+| **Frameworks** | <img src="[https://skillicons.dev/icons?i=django,flask,react](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddjango,flask,react)" /> |
+| **Data & Analysis** | <img src="[https://skillicons.dev/icons?i=pandas,tableau,powershell](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpandas,tableau,powershell)" /> |
+| **Platforms** | <img src="[https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgithub,gcp,azure,linux,vscode)" /> |
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Problem Statement | Tech Stack | Outcome / Impact |
+| --- | --- | --- | --- |
+| **Smart Bin IoT Solution** | Inefficient waste management and segregation. | Arduino, IoT, AI Logic | Automated segregation system; published in ADG 2025, IEEE CIS.
+
+ |
+| **AI Resume Optimiser** | Resumes failing to pass through ATS filters. | Python, NLP, Streamlit | Improved resume alignment for candidates through AI-driven generation.
+
+ |
+| **Recommendation System** | Protecting user data while providing accurate suggestions. | ML models, Security Protocols | Architected a scalable system with enhanced security for user data protection.
+
+ |
+| **Unemployment Trend Forecasting** | Lack of clarity in volatile market shifts. | Statsmodels, Time Series | Uncovered economic patterns to predict market volatility.
+
+ |
+
+---
+
+### 🧠 Currently Learning & Building
+
+<details>
+<summary><b>System Design & Scalability</b></summary>
+Learning how to transition from local models to production-ready, high-availability AI systems.
+</details>
+
+<details>
+<summary><b>Space Technology & Technical Training</b></summary>
+Exploring the intersection of space technology and software engineering through my internship at India Space Lab.
+</details>
+
+<details>
+<summary><b>Data Structures & Algorithms</b></summary>
+Active problem-solver on LeetCode focusing on optimizing code efficiency.
+</details>
 
 ---
 
