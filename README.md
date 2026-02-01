@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Anushka Gupta</h1>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00C4CC&height=200&section=header&text=Anushka%20Gupta&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
   <h3>Final Year B.Tech CSE (AI) | Aspiring Software & AI Engineer</h3>
   
   <p align="center">
@@ -11,12 +12,12 @@
 
 ### 👩‍💻 About Me
 
-I am a final-year Computer Science Engineering student at **Babu Banarasi Das University** with a specialization in **Artificial Intelligence**. I specialize in bridging the gap between hardware and software through IoT and developing secure, data-driven AI systems.
+[cite_start]I am a final-year Computer Science Engineering student at **Babu Banarasi Das University** specializing in **Artificial Intelligence**[cite: 3, 13, 19, 24]. [cite_start]I specialize in bridging hardware and software through IoT and developing secure, data-driven AI systems[cite: 12, 13, 24].
 
-* 🔭 **What I’m Building:** Currently engaging in technical training and project-based learning in space technology as a **Winter Intern at India Space Lab**.
-* 🧩 **Problems I Solve:** I enjoy optimizing model scalability and architecting data pipelines to handle complex processing tasks in production environments.
-* 🎯 **Target Roles:** Actively seeking Entry-level roles in **Software Engineering**, **AI/ML**, and **Data Engineering**.
-* ⚡ **Leadership:** Chairperson of the **IEEE Student Branch at BBDU**, leading a community of 70+ members.
+* [cite_start]🔭 **What I’m Building:** Currently engaging in technical training and project-based learning in space technology as a **Winter Intern at India Space Lab**[cite: 34, 38, 40, 44].
+* [cite_start]🧩 **Problems I Solve:** I enjoy optimizing model scalability and architecting data pipelines for production-oriented environments[cite: 3, 13, 24].
+* [cite_start]🎯 **Target Roles:** Actively seeking entry-level roles in **Software Engineering**, **AI/ML**, and **Data Engineering**[cite: 12, 13, 24].
+* [cite_start]⚡ **Leadership:** Chairperson of the **IEEE Student Branch at BBDU**, leading a community of 70+ members[cite: 3, 13, 19, 24].
 
 ---
 
@@ -35,10 +36,10 @@ I am a final-year Computer Science Engineering student at **Babu Banarasi Das Un
 
 | Project | Problem Statement | Tech Stack | Outcome / Impact |
 | :--- | :--- | :--- | :--- |
-| **Smart Bin IoT Solution** | Inefficient waste management and segregation. | Arduino, IoT, AI Logic | Automated segregation system; published in ADG 2025, IEEE CIS. |
-| **AI Resume Optimiser** | Resumes failing to pass through ATS filters. | Python, NLP, Streamlit | Improved resume alignment for candidates through AI-driven generation. |
-| **Recommendation System** | Protecting user data while providing accurate suggestions. | ML models, Security Protocols | Architected a scalable system with enhanced security for user data protection. |
-| **Unemployment Trend Forecasting** | Lack of clarity in volatile market shifts. | Statsmodels, Time Series | Uncovered economic patterns to predict market volatility. |
+| **Smart Bin IoT** | [cite_start]Inefficient manual waste segregation[cite: 3]. | [cite_start]Arduino, IoT, AI Logic [cite: 13, 24] | Automated system; [cite_start]Published in ADG 2025, IEEE CIS[cite: 3, 24]. |
+| **AI Resume Optimiser** | [cite_start]Resumes failing to pass ATS filters[cite: 3]. | [cite_start]Python, NLP, Streamlit [cite: 3] | [cite_start]Improved alignment through AI-driven resume generation[cite: 3]. |
+| **Recommendation Sys** | [cite_start]Protecting user data during personalization[cite: 13, 24]. | [cite_start]ML models, Security Protocols [cite: 13, 24] | [cite_start]Scalable system with enhanced data protection[cite: 13, 24]. |
+| **Unemployment Trends** | [cite_start]Identifying patterns in volatile market shifts[cite: 3, 19]. | [cite_start]Statsmodels, Time Series [cite: 13, 19] | [cite_start]Forecasted economic patterns using statistical models[cite: 13, 19]. |
 
 ---
 
@@ -46,27 +47,27 @@ I am a final-year Computer Science Engineering student at **Babu Banarasi Das Un
 
 <details>
 <summary><b>System Design & Scalability</b></summary>
-Learning how to transition from local models to production-ready, high-availability AI systems.
+[cite_start]Transitioning from local models to production-ready, high-availability AI systems[cite: 13, 24].
 </details>
 
 <details>
-<summary><b>Space Technology & Technical Training</b></summary>
-Exploring the intersection of space technology and software engineering through my internship at India Space Lab.
+<summary><b>Space Technology Training</b></summary>
+[cite_start]Engaging in technical training and space science through India Space Lab[cite: 44, 46].
 </details>
 
 <details>
 <summary><b>Data Structures & Algorithms</b></summary>
-Active problem-solver on LeetCode focusing on optimizing code efficiency.
+[cite_start]Active problem-solver on LeetCode focusing on optimizing code efficiency[cite: 11, 13, 18, 23].
 </details>
 
 ---
 
 ### 💡 Why Hire Me?
 
-* **Strong Fundamentals:** Cumulative GPA of 8.0/10 with coursework in Neural Networks, Deep Learning, and DSA.
-* **Ownership Mindset:** Founded and grew a 70+ member technical community as IEEE Chairperson.
-* **Industry-Oriented Experience:** Gained practical insights through internships at Deloitte, REXai, and India Space Lab.
-* **Fast Learner:** Certified in Space Science by ISRO and completed AI Agents training with Google.
+* [cite_start]**Strong Fundamentals:** Cumulative GPA of 8.0/10 with specialized coursework in Neural Networks and Deep Learning[cite: 3, 13, 19, 24].
+* [cite_start]**Ownership Mindset:** Founded and grew a 70+ member technical community as IEEE Chairperson[cite: 13, 19, 24].
+* [cite_start]**Industry-Oriented Experience:** Gained practical insights through roles at Deloitte, REXai, and India Space Lab[cite: 3, 13, 19, 24].
+* [cite_start]**Fast Learner:** Certified in Space Science by ISRO and completed AI Agents training with Google[cite: 6, 9, 25, 26].
 
 ---
 
