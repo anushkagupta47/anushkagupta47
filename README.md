@@ -10,6 +10,8 @@
   </p>
 </div>
 
+
+CategorySkills & ToolsLanguages<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" />AI / ML<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />Frameworks<img src="https://skillicons.dev/icons?i=django,flask,react" />Data & Analysis<img src="https://skillicons.dev/icons?i=pandas,tableau,powershell" />Platforms<img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" />
 ---
 
 ### 👩‍💻 Professional Profile
