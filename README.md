@@ -50,8 +50,7 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 </ul>
 
 ---
-
-### 🛠 Tech Stack
+<h2 style="color:#6B7280;">🛠 Tech Stack</h2>
 
 <div align="center">
 
@@ -60,66 +59,67 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" /> |
 | **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=django,flask,react" /> |
-| **Data & Analysis** | <img src="https://skillicons.dev/icons?i=pandas,tableau,powershell" /> |
-| **Platforms** | <img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" /> |
+| **Data & Analytics** | <img src="https://skillicons.dev/icons?i=pandas,tableau" /> |
+| **Platforms & Tools** | <img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" /> |
 
 </div>
-
 ---
 
-### 🚀 Featured Projects
+<h2 style="color:#6B7280;">🚀 Featured Projects</h2>
 
-| Project | Problem Statement | Tech Stack | Outcome / Impact |
+| Project | Problem Solved | Tech Stack | Outcome / Impact |
 | :--- | :--- | :--- | :--- |
-| **Smart Bin IoT Solution** | Inefficient waste management and segregation. | Arduino, IoT, AI Logic | Automated segregation system; published in ADG 2025, IEEE CIS. |
-| **AI Resume Optimiser** | Resumes failing to pass through ATS filters. | Python, NLP, Streamlit | Improved resume alignment for candidates through AI-driven generation. |
-| **Recommendation System** | Protecting user data while providing accurate suggestions. | ML models, Security Protocols | Architected a scalable system with enhanced security for user data protection. |
-| **Unemployment Trend Forecasting** | Lack of clarity in volatile market shifts. | Statsmodels, Time Series | Uncovered economic patterns to predict market volatility. |
+| **Smart Bin – IoT Waste Segregation System** | Inefficient waste segregation and recycling | Arduino, IoT Sensors, AI Logic | Automated waste segregation system; published at ADG 2025 (IEEE CIS) |
+| **AI Resume Optimiser** | Resumes failing ATS screening | Python, NLP, Streamlit | Improved resume–job matching through AI-driven analysis |
+| **Secure Recommendation System** | Balancing personalization with data security | ML Models, Backend Logic | Designed a scalable recommendation system with enhanced user data protection |
+| **Unemployment Trend Forecasting** | Lack of clarity in volatile economic trends | Statsmodels, Time Series Analysis | Identified economic patterns to forecast unemployment trends |
 
 ---
-
-### 🧠 Currently Learning & Building
+<h2 style="color:#6B7280;">🧠 Currently Learning & Building</h2>
 
 <details>
-<summary><b>System Design & Scalability</b></summary>
-Learning how to transition from local models to production-ready, high-availability AI systems.
+  <summary><b>System Design & Scalability</b></summary>
+  Designing production-ready, scalable AI systems beyond local experimentation.
 </details>
 
 <details>
-<summary><b>Space Technology & Technical Training</b></summary>
-Exploring the intersection of space technology and software engineering through my internship at India Space Lab.
+  <summary><b>Space Technology & Technical Training</b></summary>
+  Gaining hands-on exposure to space technology systems during my internship at India Space Lab.
 </details>
 
 <details>
-<summary><b>Data Structures & Algorithms</b></summary>
-Active problem-solver on LeetCode focusing on optimizing code efficiency.
+  <summary><b>Data Structures & Algorithms</b></summary>
+  Actively practicing DSA on LeetCode with a focus on efficiency and optimization.
 </details>
 
 ---
+<h2 style="color:#6B7280;">🚀 Professional Experience</h2>
 
-### 🚀 Professional Experience
+**India Space Lab** | *Winter Technical Intern* | Jan 2026 – Present  
+- Engaged in technical training and project-based learning in space technology systems.
 
-* **India Space Lab** | *Winter Technical Intern* | Jan 2026 – Present
-    * Engaging in specialized technical training and project-based learning in space technology.
-* **Deloitte Australia** | *Data Analytics Job Simulation* | July 2025
-    * Analyzed forensic datasets and built interactive Tableau dashboards for business insights.
-* **Zidio Development** | *Software/ML Intern* | July 2024 – Oct 2024
-    * Developed real-time Digit Recognition and Speech Emotion Recognition engines.
-* **RadicalX** | *AI Software Engineer Intern* | Nov 2023 – Feb 2024
-    * Leveraged OpenAI and TensorFlow to develop "ReX," an interactive AI Career Coach.
-* **Internshala** | *Student Partner (ISP 41)* | March 2024 – May 2024
-    * Selected to promote technical education and internship opportunities.
+**Deloitte Australia (Forage)** | *Data Analytics Job Simulation* | July 2025  
+- Analyzed forensic datasets and developed interactive Tableau dashboards for business insights.
+
+**Zidio Development** | *Software / ML Intern* | Jul 2024 – Oct 2024  
+- Developed real-time digit recognition and speech emotion recognition systems.
+
+**RadicalX** | *AI Software Engineer Intern* | Nov 2023 – Feb 2024  
+- Built AI-driven solutions using OpenAI APIs and TensorFlow, including an interactive AI career coach.
+
+**Internshala** | *Student Partner (ISP 41)* | Mar 2024 – May 2024  
+- Promoted technical education initiatives and internship programs.
 
 ---
 
-### 📜 Verified Certifications & Memberships
+<h2 style="color:#6B7280;">📜 Verified Certifications & Memberships</h2>
 
-* **AWS:** Amazon Q (Introduction, Business, Developer) and Generative BI with QuickSight.
-* **TCS iON:** YUVA AI For All (Issued Jan 2026)[.
-* **ISRO (IIRS):** Space Science & Technology and RS & GIS Applications.
-* **IEEE:** Student Member of **IEEE Computer Society** and **Women in Engineering**.
-* **IBM:** Python 101 for Data Science and SQL & Relational Databases 101.
-* **GUVI:** AI For India 2.0 (Skill India Digital) and Python.
+- **AWS** — Amazon Q (Intro, Business, Developer), Generative BI with QuickSight  
+- **TCS iON** — YUVA AI for All (Jan 2026)  
+- **ISRO (IIRS)** — Space Science & Technology, RS & GIS Applications  
+- **IEEE** — Student Member, IEEE Computer Society & Women in Engineering  
+- **IBM** — Python for Data Science, SQL & Relational Databases  
+- **GUVI** — AI for India 2.0 (Skill India Digital), Python  
 
 ---
 
