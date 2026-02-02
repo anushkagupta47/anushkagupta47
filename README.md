@@ -2,6 +2,7 @@
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=44&duration=2600&pause=900&color=4B5563&center=true&vCenter=true&width=650&lines=Anushka+Gupta"
     alt="Anushka Gupta"
+    style="pointer-events: none;"
   />
 </h1>
 
