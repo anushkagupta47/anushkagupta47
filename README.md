@@ -166,53 +166,35 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 </p>
 
 ---
-
 <h2 style="color:#9CA3AF;">🌐 Let’s Connect</h2>
 
-<div align="center" style="max-width:700px; margin:auto;">
+<table align="center">
+<tr>
+<td align="right"><b>LinkedIn</b></td>
+<td><a href="https://www.linkedin.com/in/anushkagupta47">linkedin.com/in/anushkagupta47</a></td>
+</tr>
 
-<p>
-🔗 <b>LinkedIn</b><br/>
-<a href="https://www.linkedin.com/in/anushkagupta47">
-linkedin.com/in/anushkagupta47
-</a>
-</p>
+<tr>
+<td align="right"><b>Email</b></td>
+<td><a href="mailto:anushkag472004@gmail.com">anushkag472004@gmail.com</a></td>
+</tr>
 
-<p>
-📧 <b>Email</b><br/>
-<a href="mailto:anushkag472004@gmail.com">
-anushkag472004@gmail.com
-</a>
-</p>
+<tr>
+<td align="right"><b>LeetCode</b></td>
+<td><a href="https://leetcode.com/u/anushkagupta47/">leetcode.com/u/anushkagupta47</a></td>
+</tr>
 
-<p>
-💻 <b>LeetCode</b><br/>
-<a href="https://leetcode.com/u/anushkagupta47/">
-leetcode.com/u/anushkagupta47
-</a>
-</p>
+<tr>
+<td align="right"><b>Google Cloud</b></td>
+<td><a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517">Skills profile</a></td>
+</tr>
 
-<p>
-☁️ <b>Google Cloud Skills Profile</b><br/>
-<a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517">
-View profile
-</a>
-</p>
+<tr>
+<td align="right"><b>Microsoft Learn</b></td>
+<td><a href="https://learn.microsoft.com/en-us/users/anushkagupta47/">Learning profile</a></td>
+</tr>
+</table>
 
-<p>
-📘 <b>Microsoft Learn</b><br/>
-<a href="https://learn.microsoft.com/en-us/users/anushkagupta47/">
-View profile
-</a>
-</p>
-
-</div>
-
-<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px;">
-Open to internships, entry-level roles, and technical collaborations.<br/>
-Interested in AI, ML, data systems, and real-world problem solving.
 </p>
    
 </div>
-
-<p align="center"><b>Open to internships, entry-level roles, and technical collaborations. Let's build something impactful together!</b></p>
