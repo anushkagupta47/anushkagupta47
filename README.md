@@ -1,6 +1,10 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Anushka%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Anushka%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
+
   <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+B.Tech+CSE+(AI)+Student;Winter+Intern+@+India+Space+Lab;AI+%26+Machine+Learning+Engineer;Chairperson+@+IEEE+Student+Branch&center=true&width=600&height=45&font=Fira+Code&color=00C4CC&vCenter=true&pause=1000" alt="Typing SVG" />
+  </p>
+  
     <img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+B.Tech+CSE+(AI)+Student;Winter+Intern+@+India+Space+Lab;AI+%26+Machine+Learning+Engineer;Chairperson+@+IEEE+Student+Branch&center=true&width=600&height=45&font=Fira+Code&color=00C4CC&vCenter=true&pause=1000" alt="Typing SVG" />
   </p>
 
