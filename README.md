@@ -9,9 +9,9 @@
   AI Engineer • Machine Learning • Data & Backend Systems
 </p>
 
-  <p align="center">
+<p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1100&color=6B7280&center=true&vCenter=true&width=850&height=40&lines=AI+Engineer+building+scalable+ML+systems;Machine+Learning+%7C+Data+%7C+Backend+Engineering;Applied+AI+for+real-world+systems"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1100&color=6B7280&center=true&vCenter=true&width=900&height=40&lines=Designing+and+deploying+ML+pipelines;Building+production-ready+AI+systems;Solving+real-world+problems+with+data+and+code"
     alt="Typing SVG"
   />
 </p>
