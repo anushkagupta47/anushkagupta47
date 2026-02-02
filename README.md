@@ -16,11 +16,9 @@
   />
 </p>
 
-
-  <p align="center">
-    <i>A dedicated AI/ML Engineer driven by the mission to architect intelligent systems that bridge the gap between complex data and real-world impact through relentless innovation and technical excellence.</i>
-  </p>
-</div>
+<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px;">
+  Current: Winter Technical Intern @ India Space Lab • Chairperson, IEEE Student Branch (BBDU)
+</p>
 
 ---
 
