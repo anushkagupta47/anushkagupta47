@@ -14,6 +14,7 @@
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=6B7280&center=true&vCenter=true&width=900&height=40&lines=Designing+and+deploying+ML+pipelines;Building+production-ready+AI+systems;Solving+real-world+problems+with+data+and+code"
     alt="Typing SVG"
+    style="pointer-events: none;"
   />
 </p>
 
