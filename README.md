@@ -167,33 +167,37 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 
 ---
 
-<h2 style="color:#6B7280;">🌐 Let’s Connect</h2>
+<h2 style="color:#9CA3AF;">🌐 Let’s Connect</h2>
 
-<p align="center">
+<p align="center" style="margin-bottom:12px;">
   <a href="https://www.linkedin.com/in/anushkagupta47" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Anushka_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:anushkag472004@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-anushkag472004@gmail.com-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-bottom:10px;">
   <a href="https://leetcode.com/u/anushkagupta47/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-374151?style=flat&logo=leetcode&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Google_Cloud-Learning_Profile-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-Skills_Profile-374151?style=flat&logo=googlecloud&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://learn.microsoft.com/en-us/users/anushkagupta47/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-Skill_Profile-737373?style=flat&logo=microsoft&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Training_Profile-374151?style=flat&logo=microsoft&logoColor=white"/>
   </a>
 </p>
 
-<p align="center" style="color:#6B7280; font-family: JetBrains Mono; font-size:14px;">
-  Open to internships, entry-level roles, and technical collaborations. Let’s build something impactful.
+<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px; max-width:720px; margin:auto;">
+  Open to internships, entry-level roles, and technical collaborations.<br/>
+  Interested in AI, ML, data systems, and real-world problem solving.
 </p>
-  
+   
 </div>
 
 <p align="center"><b>Open to internships, entry-level roles, and technical collaborations. Let's build something impactful together!</b></p>
