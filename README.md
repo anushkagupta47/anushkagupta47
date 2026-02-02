@@ -52,27 +52,6 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 ---
 <h2 style="color:#6B7280;">🛠 Tech Stack</h2>
 
-<b>Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" /><br/><br/>
-
-<b>AI / ML</b><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /><br/><br/>
-
-<b>Frameworks</b><br/>
-<img src="https://skillicons.dev/icons?i=django,flask,react" /><br/><br/>
-
-<b>Data & Analytics</b><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/><br/><br/>
-
-<b>Platforms & Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" />
-
-
-<h2 style="color:#6B7280;">🛠 Tech Stack</h2>
-
 <div align="center">
 
 <table>
