@@ -1,26 +1,26 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=2600&pause=900&color=6B7280&center=true&vCenter=true&width=600&lines=Anushka+Gupta"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=44&duration=2600&pause=900&color=4B5563&center=true&vCenter=true&width=650&lines=Anushka+Gupta"
     alt="Anushka Gupta"
   />
 </h1>
 
-<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:16px;">
+<p align="center" style="color:#374151; font-family: JetBrains Mono; font-size:17px; letter-spacing:0.4px;">
   AI Engineer • Machine Learning • Data & Backend Systems
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1100&color=6B7280&center=true&vCenter=true&width=900&height=40&lines=Designing+and+deploying+ML+pipelines;Building+production-ready+AI+systems;Solving+real-world+problems+with+data+and+code"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=6B7280&center=true&vCenter=true&width=900&height=40&lines=Designing+and+deploying+ML+pipelines;Building+production-ready+AI+systems;Solving+real-world+problems+with+data+and+code"
     alt="Typing SVG"
   />
 </p>
 
-<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px;">
+<p align="center" style="color:#6B7280; font-family: JetBrains Mono; font-size:14px;">
   Current: Winter Technical Intern @ India Space Lab • Chairperson, IEEE Student Branch (BBDU)
 </p>
 
-<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px;">
+<p align="center" style="color:#6B7280; font-family: JetBrains Mono; font-size:14px;">
   Open to Software Engineer / AI-ML / Data Engineering entry-level roles
 </p>
 
