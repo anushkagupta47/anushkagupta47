@@ -1,10 +1,9 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Anushka+Gupta"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=2600&pause=900&color=6B7280&center=true&vCenter=true&width=600&lines=Anushka+Gupta"
     alt="Anushka Gupta"
   />
 </h1>
-
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+B.Tech+CSE+(AI)+Student;Winter+Intern+@+India+Space+Lab;AI+%26+Machine+Learning+Engineer;Chairperson+@+IEEE+Student+Branch&center=true&width=600&height=45&font=Fira+Code&color=00C4CC&vCenter=true&pause=1000" alt="Typing SVG" />
