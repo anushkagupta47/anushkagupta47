@@ -130,7 +130,9 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 <h2 style="color:#6B7280;">🚀 Professional Experience</h2>
 
 **India Space Lab** | *Winter Technical Intern* | Jan 2026 – Present  
-- Engaged in technical training and project-based learning in space technology systems.
+- Undergoing structured technical training in space systems, satellite subsystems, and applied engineering concepts.  
+- Gaining hands-on exposure to space technology workflows, including system-level understanding of payloads, sensors, and data handling.  
+- Working on project-based learning focused on applying software and data-driven approaches within space technology contexts.
 
 **Deloitte Australia (Forage)** | *Data Analytics Job Simulation* | July 2025  
 - Analyzed forensic datasets and developed interactive Tableau dashboards for business insights.
@@ -165,15 +167,29 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 
 ---
 
-### 🌐 Let's Connect
+<h2 style="color:#6B7280;">🌐 Let’s Connect</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushkagupta47">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:anushkag472004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://leetcode.com/u/anushkagupta47/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+  <a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/anushkagupta47/">
+    <img src="https://skillicons.dev/icons?i=microsoft" />
+  </a>
+</p>
 
-| LinkedIn | Email | LeetCode |
-| :---: | :---: | :---: |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkagupta47) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkag472004@gmail.com) | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anushkagupta47/) |
-
-**[Google Cloud Profile](https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517)** | **[Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/anushkagupta47/)**
+<p align="center" style="color:#6B7280; font-family: JetBrains Mono; font-size:14px;">
+  LinkedIn • Email • LeetCode • Google Cloud • Microsoft Learn
+</p>
 
 </div>
 
