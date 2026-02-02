@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Anushka+Gupta"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Anushka+Gupta"
     alt="Anushka Gupta"
   />
 </h1>
