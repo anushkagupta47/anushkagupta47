@@ -169,30 +169,18 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 
 <h2 style="color:#9CA3AF;">🌐 Let’s Connect</h2>
 
-<p align="center">
-  <b>LinkedIn</b> · 
-  <a href="https://www.linkedin.com/in/anushkagupta47">linkedin.com/in/anushkagupta47</a>
+<p align="center" style="font-size:15px; line-height:1.8;">
+  <a href="https://www.linkedin.com/in/anushkagupta47">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="mailto:anushkag472004@gmail.com">Email</a> &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/anushkagupta47/">LeetCode</a> &nbsp;•&nbsp;
+  <a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517">Google Cloud</a> &nbsp;•&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/anushkagupta47/">Microsoft Learn</a>
 </p>
 
-<p align="center">
-  <b>Email</b> · 
-  <a href="mailto:anushkag472004@gmail.com">anushkag472004@gmail.com</a>
+<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px; margin-top:10px;">
+  Open to internships, entry-level roles, and technical collaborations in AI, ML, and data-driven systems.
 </p>
 
-<p align="center">
-  <b>LeetCode</b> · 
-  <a href="https://leetcode.com/u/anushkagupta47/">leetcode.com/u/anushkagupta47</a>
-</p>
-
-<p align="center">
-  <b>Google Cloud</b> · 
-  <a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517">Skills profile</a>
-</p>
-
-<p align="center">
-  <b>Microsoft Learn</b> · 
-  <a href="https://learn.microsoft.com/en-us/users/anushkagupta47/">Learning profile</a>
-</p>
 
 <p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px; margin-top:14px;">
   Open to internships, entry-level roles, and technical collaborations in AI, ML, and data-driven systems.
