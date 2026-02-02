@@ -54,13 +54,46 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 
 <div align="center">
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=django,flask,react" /> |
-| **Data & Analytics** | Pandas · NumPy · Statsmodels · Tableau · Power BI · EDA |
-| **Platforms & Tools** | <img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" /> |
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" />
+</td>
+</tr>
+
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
+</td>
+</tr>
+
+<tr>
+<td><b>Frameworks</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=django,flask,react" />
+</td>
+</tr>
+
+<tr>
+<td><b>Data & Analytics</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-4B5563?style=flat"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Platforms & Tools</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" />
+</td>
+</tr>
+</table>
 
 </div>
 
