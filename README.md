@@ -166,35 +166,40 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 </p>
 
 ---
+
 <h2 style="color:#9CA3AF;">🌐 Let’s Connect</h2>
 
-<table align="center">
-<tr>
-<td align="right"><b>LinkedIn</b></td>
-<td><a href="https://www.linkedin.com/in/anushkagupta47">linkedin.com/in/anushkagupta47</a></td>
-</tr>
+<p align="center">
+  <b>LinkedIn</b> · 
+  <a href="https://www.linkedin.com/in/anushkagupta47">linkedin.com/in/anushkagupta47</a>
+</p>
 
-<tr>
-<td align="right"><b>Email</b></td>
-<td><a href="mailto:anushkag472004@gmail.com">anushkag472004@gmail.com</a></td>
-</tr>
+<p align="center">
+  <b>Email</b> · 
+  <a href="mailto:anushkag472004@gmail.com">anushkag472004@gmail.com</a>
+</p>
 
-<tr>
-<td align="right"><b>LeetCode</b></td>
-<td><a href="https://leetcode.com/u/anushkagupta47/">leetcode.com/u/anushkagupta47</a></td>
-</tr>
+<p align="center">
+  <b>LeetCode</b> · 
+  <a href="https://leetcode.com/u/anushkagupta47/">leetcode.com/u/anushkagupta47</a>
+</p>
 
-<tr>
-<td align="right"><b>Google Cloud</b></td>
-<td><a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517">Skills profile</a></td>
-</tr>
+<p align="center">
+  <b>Google Cloud</b> · 
+  <a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517">Skills profile</a>
+</p>
 
-<tr>
-<td align="right"><b>Microsoft Learn</b></td>
-<td><a href="https://learn.microsoft.com/en-us/users/anushkagupta47/">Learning profile</a></td>
-</tr>
-</table>
+<p align="center">
+  <b>Microsoft Learn</b> · 
+  <a href="https://learn.microsoft.com/en-us/users/anushkagupta47/">Learning profile</a>
+</p>
 
+<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px; margin-top:14px;">
+  Open to internships, entry-level roles, and technical collaborations in AI, ML, and data-driven systems.
+</p>
+
+<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px; margin-top:12px;">
+  Open to internships, entry-level roles, and technical collaborations in AI, ML, and data-driven systems.
 </p>
    
 </div>
