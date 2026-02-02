@@ -26,14 +26,29 @@
 
 ---
 
-### 👩‍💻 About Me
+<h2 style="color:#6B7280;">💼 Hire Me For</h2>
 
-I am a final-year Computer Science Engineering student at **Babu Banarasi Das University** with a specialization in **Artificial Intelligence**. I specialize in bridging the gap between hardware and software through IoT and developing secure, data-driven AI systems.
+<ul>
+  <li><b>Applied AI & Machine Learning</b> — building, training, and deploying ML models for real-world use cases</li>
+  <li><b>Data & Backend Systems</b> — designing scalable data pipelines, APIs, and secure data workflows</li>
+  <li><b>End-to-End Project Ownership</b> — translating problem statements into deployment-ready solutions</li>
+  <li><b>Rapid Prototyping & Execution</b> — turning ideas into working systems with speed and reliability</li>
+</ul>
 
-* 🔭 **What I’m Building:** Currently engaging in technical training and project-based learning in space technology as a **Winter Intern at India Space Lab**.
-* 🧩 **Problems I Solve:** I enjoy optimizing model scalability and architecting data pipelines to handle complex processing tasks in production environments.
-* 🎯 **Target Roles:** Actively seeking entry-level roles in **Software Engineering**, **AI/ML**, and **Data Engineering**.
-* ⚡ **Leadership:** Chairperson of the **IEEE Student Branch at BBDU**, leading a community of 70+ members.
+---
+
+<h2 style="color:#6B7280;">👩‍💻 About Me</h2>
+
+<p>
+I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das University</b> with a specialization in <b>Artificial Intelligence</b>. My work focuses on building applied AI systems by bridging software, data, and hardware to solve real-world problems.
+</p>
+
+<ul>
+  <li>🔭 <b>What I’m Building:</b> Currently engaged in technical training and project-based learning in space technology as a <b>Winter Technical Intern at India Space Lab</b>.</li>
+  <li>🧩 <b>Problems I Solve:</b> Optimizing model scalability and architecting data pipelines for production-grade AI systems.</li>
+  <li>🎯 <b>Target Roles:</b> Open to entry-level roles in <b>Software Engineering</b>, <b>AI/ML</b>, and <b>Data Engineering</b>.</li>
+  <li>⚡ <b>Leadership:</b> Chairperson of the <b>IEEE Student Branch at BBDU</b>, leading a technical community of 70+ members.</li>
+</ul>
 
 ---
 
