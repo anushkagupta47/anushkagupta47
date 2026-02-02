@@ -162,9 +162,12 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 
 <h2 style="color:#9CA3AF;">📊 GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkagupta47&show_icons=true" />
-</p>
+<ul>
+  <li>Actively building and maintaining AI, ML, and data-driven projects</li>
+  <li>Hands-on experience with Python, ML pipelines, and backend systems</li>
+  <li>Regularly practicing Data Structures & Algorithms on LeetCode</li>
+  <li>Using GitHub for version control, collaboration, and project documentation</li>
+</ul>
 
 ---
 
