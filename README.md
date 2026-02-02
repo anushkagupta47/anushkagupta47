@@ -162,8 +162,6 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 
 <h2 style="color:#9CA3AF;">📊 GitHub Activity</h2>
 
-### 📊 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anushkagupta47&show_icons=true" />
 </p>
