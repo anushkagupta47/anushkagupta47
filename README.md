@@ -178,12 +178,7 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 </p>
 
 <p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px; margin-top:10px;">
-  Open to internships, entry-level roles, and technical collaborations in AI, ML, and data-driven systems.
-</p>
-
-
-<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px; margin-top:14px;">
-  Open to internships, entry-level roles, and technical collaborations in AI, ML, and data-driven systems.
+  <b>Open to internships, entry-level roles, and technical collaborations in AI, ML, and data-driven systems.</b>
 </p>
    
 </div>
