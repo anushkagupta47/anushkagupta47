@@ -170,27 +170,30 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 <h2 style="color:#6B7280;">🌐 Let’s Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anushkagupta47">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/anushkagupta47" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Anushka_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:anushkag472004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:anushkag472004@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-anushkag472004@gmail.com-6B7280?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/anushkagupta47/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/anushkagupta47/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=flat&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517">
-    <img src="https://skillicons.dev/icons?i=gcp" />
+  <a href="https://www.skills.google/public_profiles/6e49233c-16b9-4710-99d0-227c67dd3517" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google_Cloud-Learning_Profile-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/anushkagupta47/">
-    <img src="https://skillicons.dev/icons?i=microsoft" />
+  <a href="https://learn.microsoft.com/en-us/users/anushkagupta47/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-Skill_Profile-737373?style=flat&logo=microsoft&logoColor=white"/>
   </a>
 </p>
 
 <p align="center" style="color:#6B7280; font-family: JetBrains Mono; font-size:14px;">
-  LinkedIn • Email • LeetCode • Google Cloud • Microsoft Learn
+  Open to internships, entry-level roles, and technical collaborations. Let’s build something impactful.
 </p>
-
+  
 </div>
 
 <p align="center"><b>Open to internships, entry-level roles, and technical collaborations. Let's build something impactful together!</b></p>
