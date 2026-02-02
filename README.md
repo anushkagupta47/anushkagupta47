@@ -5,12 +5,9 @@
   />
 </h1>
 
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=9CA3AF&center=true&vCenter=true&width=800&lines=AI+Systems+%7C+Machine+Learning+%7C+Data+Engineering"
-    alt="AI Systems Focus"
-  />
-</h3>
+<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:16px;">
+  AI Engineer • Machine Learning • Data & Backend Systems
+</p>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+B.Tech+CSE+(AI)+Student;Winter+Intern+@+India+Space+Lab;AI+%26+Machine+Learning+Engineer;Chairperson+@+IEEE+Student+Branch&center=true&width=600&height=45&font=Fira+Code&color=00C4CC&vCenter=true&pause=1000" alt="Typing SVG" />
