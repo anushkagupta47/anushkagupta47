@@ -59,10 +59,11 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" /> |
 | **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=django,flask,react" /> |
-| **Data & Analytics** | <img src="https://skillicons.dev/icons?i=pandas,tableau" /> |
+| **Data & Analytics** | Pandas · NumPy · Statsmodels · Tableau · Power BI · EDA |
 | **Platforms & Tools** | <img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" /> |
 
 </div>
+
 ---
 
 <h2 style="color:#6B7280;">🚀 Featured Projects</h2>
@@ -107,8 +108,9 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 **RadicalX** | *AI Software Engineer Intern* | Nov 2023 – Feb 2024  
 - Built AI-driven solutions using OpenAI APIs and TensorFlow, including an interactive AI career coach.
 
-**Internshala** | *Student Partner (ISP 41)* | Mar 2024 – May 2024  
-- Promoted technical education initiatives and internship programs.
+**IEEE Student Branch, BBDU** | *Chairperson* | Nov 2024 – Present  
+- Leading a 70+ member technical community and organizing technical workshops, IDEATHONs, and project exhibitions.
+- Coordinating with IEEE Computer Society and IEEE Women in Engineering for student-led initiatives.
 
 ---
 
