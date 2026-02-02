@@ -20,6 +20,10 @@
   Current: Winter Technical Intern @ India Space Lab • Chairperson, IEEE Student Branch (BBDU)
 </p>
 
+<p align="center" style="color:#9CA3AF; font-family: JetBrains Mono; font-size:14px;">
+  Open to Software Engineer / AI-ML / Data Engineering entry-level roles
+</p>
+
 ---
 
 ### 👩‍💻 About Me
