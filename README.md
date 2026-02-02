@@ -10,8 +10,12 @@
 </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+B.Tech+CSE+(AI)+Student;Winter+Intern+@+India+Space+Lab;AI+%26+Machine+Learning+Engineer;Chairperson+@+IEEE+Student+Branch&center=true&width=600&height=45&font=Fira+Code&color=00C4CC&vCenter=true&pause=1000" alt="Typing SVG" />
-  </p>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1100&color=6B7280&center=true&vCenter=true&width=850&height=40&lines=AI+Engineer+building+scalable+ML+systems;Machine+Learning+%7C+Data+%7C+Backend+Engineering;Applied+AI+for+real-world+systems"
+    alt="Typing SVG"
+  />
+</p>
+
 
   <p align="center">
     <i>A dedicated AI/ML Engineer driven by the mission to architect intelligent systems that bridge the gap between complex data and real-world impact through relentless innovation and technical excellence.</i>
