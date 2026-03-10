@@ -4,7 +4,7 @@
 
 
 <p align="center" style="color:#374151; font-family: JetBrains Mono; font-size:17px; letter-spacing:0.4px;">
-  AI Engineer • Machine Learning • Data & Backend Systems
+  AI Engineer • Machine Learning • Geospatial & Data Systems
 </p>
 
 <p align="center">
@@ -39,17 +39,27 @@
 <h2 style="color:#6B7280;">👩‍💻 About Me</h2>
 
 <p>
-I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das University</b> with a specialization in <b>Artificial Intelligence</b>. My work focuses on building applied AI systems by bridging software, data, and hardware to solve real-world problems.
+I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das University</b> specializing in <b>Artificial Intelligence</b>. My work focuses on building applied AI systems by integrating software engineering, machine learning, and data-driven architectures to solve real-world problems.
+</p>
+
+<p>
+I am particularly interested in developing <b>scalable AI solutions</b> that combine <b>machine learning, backend systems, and geospatial data</b> to create intelligent and impactful applications.
 </p>
 
 <ul>
-  <li>🔭 <b>What I’m Building:</b> Currently engaged in technical training and project-based learning in space technology as a <b>Winter Technical Intern at India Space Lab</b>.</li>
-  <li>🧩 <b>Problems I Solve:</b> Optimizing model scalability and architecting data pipelines for production-grade AI systems.</li>
-  <li>🎯 <b>Target Roles:</b> Open to entry-level roles in <b>Software Engineering</b>, <b>AI/ML</b>, and <b>Data Engineering</b>.</li>
-  <li>⚡ <b>Leadership:</b> Chairperson of the <b>IEEE Student Branch at BBDU</b>, leading a technical community of 70+ members.</li>
+  <li>🚀 <b>Current Work:</b> Winter Technical Intern at <b>India Space Lab</b>, gaining hands-on exposure to space technology systems, satellite subsystems, and applied engineering workflows.</li>
+  
+  <li>🛰 <b>Technical Focus:</b> Artificial Intelligence, Machine Learning, Data Engineering, and <b>Geospatial Analytics (Remote Sensing & GIS)</b>.</li>
+  
+  <li>🧩 <b>Problem Solving:</b> Designing data pipelines, training machine learning models, and building end-to-end intelligent systems.</li>
+  
+  <li>🎯 <b>Career Goals:</b> Seeking entry-level roles in <b>Software Engineering, AI/ML Engineering, or Data Engineering</b> where I can build scalable, production-ready systems.</li>
+  
+  <li>⚡ <b>Leadership:</b> Chairperson of the <b>IEEE Student Branch at BBDU</b>, leading a technical community of 70+ members and organizing technical events, workshops, and innovation initiatives.</li>
 </ul>
 
 ---
+
 <h2 style="color:#6B7280;">🛠 Tech Stack</h2>
 
 <div align="center">
@@ -59,14 +69,15 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 <tr>
 <td><b>Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql"/>
 </td>
 </tr>
 
 <tr>
-<td><b>AI / ML</b></td>
+<td><b>AI / Machine Learning</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
 </td>
 </tr>
 
@@ -88,25 +99,31 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 <tr>
 <td><b>Frameworks</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=django,flask,react" />
+<img src="https://skillicons.dev/icons?i=django,flask,react"/>
 </td>
 </tr>
 
 <tr>
 <td><b>Data & Analytics</b></td>
 <td>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Statsmodels-4B5563?style=flat"/>
+
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+
 </td>
 </tr>
 
 <tr>
 <td><b>Platforms & Tools</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode"/>
 </td>
 </tr>
 
