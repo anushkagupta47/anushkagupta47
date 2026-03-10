@@ -55,44 +55,61 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 <div align="center">
 
 <table>
+
 <tr>
 <td><b>Languages</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" />
 </td>
 </tr>
 
 <tr>
 <td><b>AI / ML</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
+</td>
+</tr>
+
+<tr>
+<td><b>Geospatial & Remote Sensing</b></td>
+<td>
+
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GDAL-4B8BBE?style=flat"/>
+
+<img src="https://img.shields.io/badge/Remote%20Sensing-6B7280?style=flat"/>
+
+<img src="https://img.shields.io/badge/Spatial%20Analysis-6B7280?style=flat"/>
+
 </td>
 </tr>
 
 <tr>
 <td><b>Frameworks</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=django,flask,react" />
+<img src="https://skillicons.dev/icons?i=django,flask,react" />
 </td>
 </tr>
 
 <tr>
 <td><b>Data & Analytics</b></td>
 <td>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statsmodels-4B5563?style=flat"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statsmodels-4B5563?style=flat"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
 </td>
 </tr>
 
 <tr>
 <td><b>Platforms & Tools</b></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode" />
 </td>
 </tr>
+
 </table>
 
 </div>
@@ -101,12 +118,16 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
 
 <h2 style="color:#6B7280;">🚀 Featured Projects</h2>
 
-| Project | Problem Solved | Tech Stack | Outcome / Impact |
+| Project | Problem Solved | Tech Stack | Outcome |
 | :--- | :--- | :--- | :--- |
-| **Smart Bin – IoT Waste Segregation System** | Inefficient waste segregation and recycling | Arduino, IoT Sensors, AI Logic | Automated waste segregation system; published at ADG 2025 (IEEE CIS) |
-| **AI Resume Optimiser** | Resumes failing ATS screening | Python, NLP, Streamlit | Improved resume–job matching through AI-driven analysis |
-| **Secure Recommendation System** | Balancing personalization with data security | ML Models, Backend Logic | Designed a scalable recommendation system with enhanced user data protection |
-| **Unemployment Trend Forecasting** | Lack of clarity in volatile economic trends | Statsmodels, Time Series Analysis | Identified economic patterns to forecast unemployment trends |
+| **Smart Bin – IoT Waste Segregation System** | Inefficient waste segregation | Arduino, Sensors, Embedded Logic | Automated smart bin system for waste classification. |
+| **AI Resume Optimiser** | Resumes failing ATS screening | Python, NLP, Streamlit | AI-driven resume analysis improving job matching. |
+| **Secure Recommendation System** | Balancing personalization with privacy | Machine Learning, Backend Systems | Designed scalable recommendation architecture with security focus. |
+| **Unemployment Trend Forecasting** | Understanding economic patterns | Python, Statsmodels, Time Series | Forecasted unemployment trends using historical data analysis. |
+| **GIS Terrain & Network Analysis** | Understanding terrain elevation and routing | QGIS, GDAL, Spatial Data | Generated slope maps and optimized network routing using DEM datasets. |
+
+🔗 **Repository:**  
+https://github.com/anushkagupta47/QGIS_ISL
 
 ---
 <h2 style="color:#6B7280;">🧠 Currently Learning & Building</h2>
@@ -168,6 +189,28 @@ I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das U
   <li>Regularly practicing Data Structures & Algorithms on LeetCode</li>
   <li>Using GitHub for version control, collaboration, and project documentation</li>
 </ul>
+
+---
+
+<h2 style="color:#9CA3AF;">📈 GitHub Statistics</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anushkagupta47&show_icons=true&theme=default&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkagupta47&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 style="color:#9CA3AF;">📊 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkagupta47&theme=github-compact&hide_border=true"/>
+
+</p>
 
 ---
 
