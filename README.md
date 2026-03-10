@@ -39,7 +39,11 @@
 <h2 style="color:#6B7280;">👩‍💻 About Me</h2>
 
 <p>
-I am a final-year Computer Science Engineering student at <b>Babu Banarasi Das University</b> specializing in <b>Artificial Intelligence</b>. My work focuses on building applied AI systems by integrating software engineering, machine learning, and data-driven architectures to solve real-world problems.
+I am particularly interested in developing scalable AI solutions that combine machine learning, backend systems, and geospatial data to create intelligent and impactful applications.
+</p>
+
+<p>
+I actively experiment with applied AI, geospatial analytics, and intelligent automation through <b>hands-on project development</b>, building systems that combine machine learning models, spatial data analysis, and scalable backend workflows.
 </p>
 
 <p>
@@ -104,12 +108,17 @@ I am particularly interested in developing <b>scalable AI solutions</b> that com
 </tr>
 
 <tr>
+<tr>
 <td><b>Data & Analytics</b></td>
 <td>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
 
 <img src="https://img.shields.io/badge/Statsmodels-4B5563?style=flat"/>
 
@@ -120,7 +129,6 @@ I am particularly interested in developing <b>scalable AI solutions</b> that com
 </td>
 </tr>
 
-<tr>
 <td><b>Platforms & Tools</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=github,gcp,azure,linux,vscode"/>
@@ -141,7 +149,7 @@ I am particularly interested in developing <b>scalable AI solutions</b> that com
 | **AI Resume Optimiser** | Resumes failing ATS screening | Python, NLP, Streamlit | AI-driven resume analysis improving job matching. |
 | **Secure Recommendation System** | Balancing personalization with privacy | Machine Learning, Backend Systems | Designed scalable recommendation architecture with security focus. |
 | **Unemployment Trend Forecasting** | Understanding economic patterns | Python, Statsmodels, Time Series | Forecasted unemployment trends using historical data analysis. |
-| **GIS Terrain & Network Analysis** | Understanding terrain elevation and routing | QGIS, GDAL, Spatial Data | Generated slope maps and optimized network routing using DEM datasets. |
+| **[GIS Terrain & Network Analysis](https://github.com/anushkagupta47/QGIS_ISL)** | Understanding terrain elevation and routing | QGIS, GDAL, Spatial Data | Generated slope maps and optimized network routing using DEM datasets. |
 
 🔗 **Repository:**  
 https://github.com/anushkagupta47/QGIS_ISL
