@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 
 <h3 align="center">
-🚀 AI Engineer | Data Scientist | Software Developer | IEEE Chairperson
+🚀 AI Engineer | Data Scientist | Software Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20Machine%20Learning%20Engineer;Data%20Science%20%7C%20NLP%20%7C%20Computer%20Vision;Full%20Stack%20Developer%20(Django);IEEE%20Leader%20%7C%2070%2B%20Members&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%7C%20ML%20Developer;NLP%20%7C%20Computer%20Vision%20%7C%20Time%20Series;Full%20Stack%20Developer%20(Django);IEEE%20Chairperson%20%7C%2070%2B%20Members&center=true&width=650&height=50">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 - 🎓 B.Tech CSE (AI), GPA: **8.0/10**  
-- 💼 Experience across **AI/ML, Data Science & Software Development**  
-- 🏆 **IEEE Student Branch Chairperson (70+ members)**  
-- 📊 Built systems in **NLP, Computer Vision, IoT & Geospatial Analytics**  
-- 📄 Research Publication: *Smart Bin – IEEE ADG 2025*  
+- 💼 Experience in **AI/ML, Data Science & Software Development**  
+- 🏆 **Chairperson – IEEE Student Branch (70+ members)**  
+- 📄 Published Research: *Smart Bin (IEEE ADG 2025)*  
+- 🔍 Focused on building **real-world AI systems (not just models)**  
 
 ---
 
@@ -26,52 +26,52 @@
 <img src="https://skillicons.dev/icons?i=python,javascript,sql,c,html,css" />
 </p>
 
-### 🤖 AI / ML / Data Science
+### 🤖 AI / Data Science
 - Machine Learning, Deep Learning, NLP, Computer Vision  
-- Feature Engineering, Data Preprocessing, Time Series Forecasting  
-- LLMs, Generative AI, AI Agents  
+- Time Series Forecasting, Feature Engineering  
+- Generative AI, LLMs, AI Agents  
 
-### 📊 Libraries & Tools
-- Pandas, NumPy, Statsmodels  
-- Tableau, Power BI  
-- Jupyter Notebook  
-
-### ⚙️ Development & Platforms
+### ⚙️ Tools & Platforms
 <p align="center">
 <img src="https://skillicons.dev/icons?i=django,git,github,vscode" />
 </p>
 
+- Pandas, NumPy, Statsmodels  
+- Tableau, Power BI  
 - Google Cloud, Azure  
-- QGIS (Geospatial Analysis), OpenVSP  
-- IoT (Arduino-based systems)  
+- QGIS (Geospatial), IoT Systems  
 
 ---
 
-## ⚡ What I Do
-✔ Build **ML models (NLP, CV, forecasting)**  
-✔ Develop **data-driven applications (Django + SQL)**  
-✔ Solve **real-world problems using AI + IoT + GIS**  
-
----
-
-## 🚀 Featured Work
+## 🚀 Featured Projects (Real Impact)
 
 ### 🔢 Digit Recognition System
-- Feature extraction using **HOG & Zernike Moments**  
-- Built end-to-end ML pipeline  
+→ Built using **HOG + Zernike Moments**  
+→ End-to-end ML pipeline with high accuracy  
 
 ### 🎤 Speech Emotion Recognition
-- Real-time emotion detection using **MFCC + audio processing**  
+→ Real-time audio emotion detection using **MFCC**  
+→ Applied signal processing + ML  
 
 ### 🧠 NLP Spam Detection
-- Automated email classification system  
+→ Automated email classification system  
+→ Improved filtering efficiency  
 
 ### 🗑️ Smart Bin (IEEE Publication)
-- IoT + AI waste segregation system  
-- Social impact + sustainability focus  
+→ IoT + AI-based waste segregation  
+→ Focused on **social impact & sustainability**  
 
 ### 📊 Unemployment Forecasting
-- Time series modeling using **Statsmodels**  
+→ Time-series modeling using **Statsmodels**  
+→ Extracted economic trends from data  
+
+---
+
+## 💡 What Makes Me Different
+✔ AI + Software + Real-world deployment  
+✔ Experience in **GIS + IoT + AI (rare combo)**  
+✔ Proven leadership (IEEE 70+ community)  
+✔ Built systems across **ML, Web, and Data domains**
 
 ---
 
@@ -87,8 +87,8 @@
 ## 🏆 Achievements
 - 🏅 IEEE SPS Student Award 2024  
 - 📄 IEEE Research Publication (ADG 2025)  
-- 🚀 Led 70+ member IEEE technical community  
-- 💼 Internships in AI, ML & Data Science  
+- 🚀 Led large-scale technical events (IDEATHON, TechXplore)  
+- 💼 Multiple internships in AI, ML & Data Science  
 
 ---
 
@@ -105,6 +105,6 @@
 
 ---
 
-## ⚡ Current Focus
-🎯 Actively seeking **AI/ML Engineer / Data Science / SDE roles**  
+## 🎯 Current Goal
+🚀 Actively seeking **AI/ML Engineer / Data Science / SDE roles**  
 🤝 Open to **referrals, internships & collaborations**
