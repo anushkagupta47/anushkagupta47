@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 
 <h3 align="center">
-  AI Engineer | Software Developer | Data Scientist | IEEE Chairperson
+  AI Engineer | Full Stack Developer | Data Scientist | IEEE Chairperson
 </h3>
 
 <p align="center">
@@ -11,25 +11,29 @@
 ---
 
 ## 💫 About Me
-[cite_start]I am a final-year Computer Science Engineering student specializing in **Artificial Intelligence**[cite: 3, 29, 35]. [cite_start]I bridge the gap between complex AI models and real-world deployment, with experience ranging from **Space Technology** to **IoT-based sustainable solutions**[cite: 24, 32, 35].
+[cite_start]I am a final-year **Computer Science Engineering** student (Spec. in AI) at **Babu Banarasi Das University**. I specialize in building scalable, data-driven systems that bridge the gap between hardware and software. [cite_start]I have a strong foundation in **Data Structures & Algorithms** [cite: 17, 18] and a passion for creating technology with social impact.
 
 * [cite_start]🔭 **Currently:** Deepening my expertise in **AI Agents** and **Multi-Agent Protocols (MCP)**[cite: 3, 35].
-* [cite_start]🛰️ **Recent:** Interned at **India Space Lab**, performing spatial analysis and aircraft modeling[cite: 24].
-* [cite_start]🏆 **Leadership:** Founder & Chairperson of the **IEEE Student Branch at BBDU**, leading 70+ members.
-* [cite_start]📜 **Published:** Author of "Smart Bin: An IoT-Based Waste Segregation System" (**ADG 2025**)[cite: 3, 30, 31, 35].
+* [cite_start]🛰️ **Recent:** Technical Trainer intern at **India Space Lab**, focusing on **GIS** and **Aerospace modeling**.
+* [cite_start]🏆 **Leadership:** Founder & Chairperson of the **IEEE Student Branch (BBDU)**, leading a community of 70+ members[cite: 12, 24, 35].
+* [cite_start]📜 **Published:** Author of "Smart Bin: An IoT-Based Waste Segregation System" presented at **ADG 2025**[cite: 3, 31].
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Professional Experience
 
-### 🛰️ Space Tech & Geospatial Analysis
-* [cite_start]**Aircraft Modeling:** Recreated a **NASA variant Cessna 210** using **OpenVSP**, applying complex geometric parameters for 3D modeling[cite: 24].
-* [cite_start]**GIS Spatial Analysis:** Managed spatial databases and performed site suitability modeling using **QGIS**[cite: 24].
+### 🛰️ Technical Trainer | India Space Lab (Feb 2026 - Present)
+* [cite_start]Performed shortest-path and service area network analysis using **QGIS**.
+* [cite_start]Managed GIS spatial databases by digitizing raster maps into vector layers.
+* [cite_start]Parametrically modeled a **Cessna 210 (NASA variant)** using **OpenVSP**.
 
-### 🤖 AI & Machine Learning
-* [cite_start]**Smart Bin (Full Stack IoT):** Developed an automated segregation system using **Arduino** and sensors, coupled with a web platform to support ragpicker income[cite: 18, 32, 35].
-* [cite_start]**Speech & Digit Recognition:** Built real-time processing engines using **MFCCs**, **HOG**, and **Zernike moments**[cite: 18, 24, 29].
-* [cite_start]**Unemployment Forecasting:** Utilized **Statsmodels** for time-series analysis to predict economic patterns[cite: 12, 18, 29].
+### 🤖 AI Software Engineer | REXai (Nov 2023 - March 2024)
+* [cite_start]Architected scalable pipelines for complex data processing in production environments[cite: 3, 35].
+* [cite_start]Optimized model scalability and collaborated on backend logic for enterprise solutions[cite: 18, 24].
+
+### 📊 Data Analytics Simulation | Deloitte Australia (July 2025)
+* [cite_start]Analyzed forensic datasets to derive actionable business insights[cite: 3, 12, 35].
+* [cite_start]Developed interactive **Tableau** dashboards to visualize large-scale data.
 
 ---
 
@@ -37,28 +41,40 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, JavaScript (React), SQL, C, HTML5/CSS3 [cite: 3, 12, 18, 24] |
-| **AI/ML** | [cite_start]GenAI, LLMs, Neural Networks, Computer Vision, NLP, AutoML [cite: 3, 35] |
-| **Data & Tools** | [cite_start]Tableau, Power BI, QGIS, Django, Azure, Google Cloud, Linux [cite: 12, 18, 24, 35] |
-| **Core CS** | [cite_start]Data Structures & Algorithms (DSA), System Design, Operating Systems [cite: 3, 18, 24, 35] |
+| **AI/ML & GenAI** | [cite_start]LLMs, AI Agents (MCP), Neural Networks, NLP, Computer Vision, AutoML [cite: 3, 32, 35] |
+| **Programming** | [cite_start]Python, SQL, JavaScript, C, Django, HTML5/CSS3, React [cite: 18, 24, 32] |
+| **Data Science** | [cite_start]Tableau, Power BI, QGIS, Statsmodels, Pandas, NumPy [cite: 12, 18, 24, 32] |
+| **Core CS** | [cite_start]Data Structures & Algorithms, Operating Systems, IoT, System Design [cite: 18, 24, 35] |
+
+---
+
+## 📂 Key Projects
+
+### ♻️ Smart Bin: Full-Stack IoT Solution
+* [cite_start]Developed an automated waste segregation system using **Arduino**, humidity sensors, and servo motors[cite: 18, 32].
+* [cite_start]Built a web platform to promote waste management and income opportunities for ragpickers.
+
+### 🧠 Real-Time Recognition Engines
+* [cite_start]**Speech Emotion Recognition:** Utilized **MFCCs** and pitch analysis for real-time predictions[cite: 18, 24, 29].
+* [cite_start]**Digit Recognition:** Integrated **HOG** and **Zernike moments** for high-accuracy feature extraction[cite: 18, 24, 29].
 
 ---
 
 ## 🏅 Honors & Certifications
-* [cite_start]**IEEE SPS UP Chapter Student Award 2024:** For exemplary technical leadership[cite: 3, 12, 18, 35].
-* [cite_start]**ISRO (IIRS) Certified:** Space Science & Technology and RS & GIS Applications[cite: 9, 37, 32].
-* [cite_start]**Deloitte Australia Simulation:** Forensic data analysis and business insight derivation[cite: 3, 12, 35].
+* [cite_start]**IEEE SPS UP Chapter Student Award 2024:** For exemplary technical leadership[cite: 3, 18, 24].
+* [cite_start]**ISRO (IIRS) Certified:** Space Science & Technology and RS & GIS Applications[cite: 3, 32, 37].
+* [cite_start]**Google Kaggle:** 5-Day AI Agents Intensive Course[cite: 3, 36].
 
 ---
 
 ## 🤝 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/anushkagupta47"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://leetcode.com/u/anushkagupta47/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
+<a href="https://github.com/anushkagupta47"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="mailto:anushkag472004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
 <p align="center">
-  <i>"I believe in building technology that creates social impact and environmental sustainability."</i>
+  <i>"Passionate about leveraging AI and Geospatial data to solve real-world problems."</i>
 </p>
