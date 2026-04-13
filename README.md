@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 
 <h3 align="center">
-🚀 AI Engineer | Data Scientist | Software Developer
+🚀 AI Engineer | Data Scientist | Software Developer | IEEE Chairperson
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%7C%20ML%20Developer;NLP%20%7C%20Computer%20Vision%20%7C%20Time%20Series;Full%20Stack%20Developer%20(Django);IEEE%20Chairperson%20%7C%2070%2B%20Members&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%7C%20Machine%20Learning;NLP%20%7C%20Computer%20Vision%20%7C%20Time%20Series;Full%20Stack%20Developer%20(Django);IEEE%20Leader%20%7C%2070%2B%20Members&center=true&width=650&height=50">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 B.Tech CSE (AI), GPA: **8.0/10**  
+- 🎓 B.Tech CSE (Artificial Intelligence), **GPA: 8.0/10**  
 - 💼 Experience in **AI/ML, Data Science & Software Development**  
 - 🏆 **Chairperson – IEEE Student Branch (70+ members)**  
-- 📄 Published Research: *Smart Bin (IEEE ADG 2025)*  
+- 📄 **IEEE Research Publication (ADG 2025)**  
 - 🔍 Focused on building **real-world AI systems (not just models)**  
 
 ---
@@ -26,52 +26,62 @@
 <img src="https://skillicons.dev/icons?i=python,javascript,sql,c,html,css" />
 </p>
 
-### 🤖 AI / Data Science
-- Machine Learning, Deep Learning, NLP, Computer Vision  
-- Time Series Forecasting, Feature Engineering  
+### 🤖 AI / ML / Data Science
+- Machine Learning, Deep Learning  
+- NLP, Computer Vision  
+- Time Series Forecasting  
+- Feature Engineering, Data Preprocessing  
 - Generative AI, LLMs, AI Agents  
 
-### ⚙️ Tools & Platforms
+### 📊 Libraries & Tools
+- Pandas, NumPy, Statsmodels  
+- Tableau, Power BI  
+- Jupyter Notebook  
+
+### ⚙️ Development & Platforms
 <p align="center">
 <img src="https://skillicons.dev/icons?i=django,git,github,vscode" />
 </p>
 
-- Pandas, NumPy, Statsmodels  
-- Tableau, Power BI  
 - Google Cloud, Azure  
-- QGIS (Geospatial), IoT Systems  
+- QGIS (Geospatial Analysis)  
+- IoT Systems (Arduino-based)  
 
 ---
 
-## 🚀 Featured Projects (Real Impact)
+## ⚡ What I Do
+✔ Build **Machine Learning models (NLP, CV, forecasting)**  
+✔ Develop **data-driven applications using Django & SQL**  
+✔ Solve **real-world problems using AI + IoT + GIS**  
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔢 Digit Recognition System
-→ Built using **HOG + Zernike Moments**  
-→ End-to-end ML pipeline with high accuracy  
+- Feature extraction using **HOG & Zernike Moments**  
+- End-to-end ML pipeline  
 
 ### 🎤 Speech Emotion Recognition
-→ Real-time audio emotion detection using **MFCC**  
-→ Applied signal processing + ML  
+- Real-time emotion detection using **MFCC + audio processing**  
 
 ### 🧠 NLP Spam Detection
-→ Automated email classification system  
-→ Improved filtering efficiency  
+- Automated email classification system  
 
 ### 🗑️ Smart Bin (IEEE Publication)
-→ IoT + AI-based waste segregation  
-→ Focused on **social impact & sustainability**  
+- IoT + AI-based waste segregation system  
+- Focused on sustainability & social impact  
 
 ### 📊 Unemployment Forecasting
-→ Time-series modeling using **Statsmodels**  
-→ Extracted economic trends from data  
+- Time-series modeling using **Statsmodels**  
 
 ---
 
 ## 💡 What Makes Me Different
 ✔ AI + Software + Real-world deployment  
-✔ Experience in **GIS + IoT + AI (rare combo)**  
-✔ Proven leadership (IEEE 70+ community)  
-✔ Built systems across **ML, Web, and Data domains**
+✔ Experience in **GIS + IoT + AI (rare combination)**  
+✔ Strong leadership (IEEE – 70+ members)  
+✔ Hands-on across **ML, Web, and Data systems**  
 
 ---
 
@@ -87,7 +97,7 @@
 ## 🏆 Achievements
 - 🏅 IEEE SPS Student Award 2024  
 - 📄 IEEE Research Publication (ADG 2025)  
-- 🚀 Led large-scale technical events (IDEATHON, TechXplore)  
+- 🚀 Led technical events (IDEATHON, TechXplore)  
 - 💼 Multiple internships in AI, ML & Data Science  
 
 ---
@@ -108,3 +118,9 @@
 ## 🎯 Current Goal
 🚀 Actively seeking **AI/ML Engineer / Data Science / SDE roles**  
 🤝 Open to **referrals, internships & collaborations**
+
+---
+
+<p align="center">
+  ⭐ If you find my work interesting, feel free to connect or collaborate!
+</p>
