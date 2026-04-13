@@ -1,54 +1,81 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
-<h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | IEEE Chairperson</h3>
+
+<h3 align="center">
+🚀 AI Engineer | Data Scientist | Software Developer | IEEE Chairperson
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20Machine%20Learning%20Engineer;Full%20Stack%20Developer;IEEE%20Chairperson;Open%20to%20Opportunities&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%7C%20Machine%20Learning%20Engineer;Data%20Science%20%7C%20NLP%20%7C%20Computer%20Vision;Full%20Stack%20Developer%20(Django);IEEE%20Leader%20%7C%2070%2B%20Members&center=true&width=600&height=50">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 B.Tech CSE (Artificial Intelligence)  
-- 💼 1+ year experience in AI/ML & Software Development  
-- 🏆 IEEE Student Branch Chairperson (70+ members)  
-- 📊 Worked on ML, NLP, Computer Vision & GIS systems  
+- 🎓 B.Tech CSE (AI), GPA: **8.0/10**  
+- 💼 Experience across **AI/ML, Data Science & Software Development**  
+- 🏆 **IEEE Student Branch Chairperson (70+ members)**  
+- 📊 Built systems in **NLP, Computer Vision, IoT & Geospatial Analytics**  
+- 📄 Research Publication: *Smart Bin – IEEE ADG 2025*  
 
 ---
 
 ## 🚀 Tech Stack
 
+### 💻 Programming
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,sql,c,html,css,django,tensorflow,pytorch,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=python,javascript,sql,c,html,css" />
 </p>
+
+### 🤖 AI / ML / Data Science
+- Machine Learning, Deep Learning, NLP, Computer Vision  
+- Feature Engineering, Data Preprocessing, Time Series Forecasting  
+- LLMs, Generative AI, AI Agents  
+
+### 📊 Libraries & Tools
+- Pandas, NumPy, Statsmodels  
+- Tableau, Power BI  
+- Jupyter Notebook  
+
+### ⚙️ Development & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,git,github,vscode" />
+</p>
+
+- Google Cloud, Azure  
+- QGIS (Geospatial Analysis), OpenVSP  
+- IoT (Arduino-based systems)  
 
 ---
 
 ## ⚡ What I Do
-✔ Build Machine Learning models (NLP, CV)  
-✔ Develop scalable web apps (Django + JS)  
-✔ Work on real-world AI systems  
+✔ Build **ML models (NLP, CV, forecasting)**  
+✔ Develop **data-driven applications (Django + SQL)**  
+✔ Solve **real-world problems using AI + IoT + GIS**  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-🔢 **Digit Recognition System**  
-→ ML model using HOG + feature extraction  
+### 🔢 Digit Recognition System
+- Feature extraction using **HOG & Zernike Moments**  
+- Built end-to-end ML pipeline  
 
-🧠 **NLP Spam Detection**  
-→ Email classification system  
+### 🎤 Speech Emotion Recognition
+- Real-time emotion detection using **MFCC + audio processing**  
 
-🎤 **Speech Emotion Recognition**  
-→ Real-time emotion detection using MFCC  
+### 🧠 NLP Spam Detection
+- Automated email classification system  
 
-🗑️ **Smart Waste Management System**  
-→ IoT + Full Stack system  
+### 🗑️ Smart Bin (IEEE Publication)
+- IoT + AI waste segregation system  
+- Social impact + sustainability focus  
+
+### 📊 Unemployment Forecasting
+- Time series modeling using **Statsmodels**  
 
 ---
 
-## 📈 GitHub Stats (Live)
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anushkagupta47&show_icons=true" />
@@ -59,30 +86,25 @@
 
 ## 🏆 Achievements
 - 🏅 IEEE SPS Student Award 2024  
+- 📄 IEEE Research Publication (ADG 2025)  
 - 🚀 Led 70+ member IEEE technical community  
-- 💼 Multiple AI/ML internships  
+- 💼 Internships in AI, ML & Data Science  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/anushkagupta47/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/anushkagupta47/">
+  <img src="https://img.shields.io/badge/LinkedIn-Anushka%20Gupta-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:anushkag472004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
 ---
 
 ## ⚡ Current Focus
-🎯 Actively seeking **AI/ML Engineer / Data Science roles**  
-💬 Open to referrals and collaboration  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anushkagupta47&label=Profile%20views&color=blue&style=flat" />
-</p>
+🎯 Actively seeking **AI/ML Engineer / Data Science / SDE roles**  
+🤝 Open to **referrals, internships & collaborations**
