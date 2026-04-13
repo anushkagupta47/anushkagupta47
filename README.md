@@ -68,13 +68,36 @@ Built a web platform to promote waste management and income opportunities for ra
 ---
 
 ## 🤝 Let's Connect & Collaborate
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/anushkagupta47"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/anushkagupta47"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://leetcode.com/u/anushka_47/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
-  <a href="https://www.hackerrank.com/profile/anushkag472004"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anushkagupta47" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/anushkagupta47" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/u/anushka_47/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.hackerrank.com/profile/anushkag472004" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+  </a>
 </p>
 
+<p align="left">
+  <a href="https://www.upwork.com/freelancers/~0175a7a48f64b8588a" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+  </a>
+  <a href="mailto:anushkag472004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"I believe in building technology that creates social impact and environmental sustainability."</i>
+</p>
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~0175a7a48f64b8588a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" target="_blank"></a>
   <a href="mailto:anushkag472004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
