@@ -13,10 +13,10 @@
 ## 💫 About Me
 I am a final-year **Computer Science Engineering** student specializing in **Artificial Intelligence** at **Babu Banarasi Das University**. I specialize in bridging the gap between hardware and software, with research and industry experience ranging from **Space Technology** to **IoT-based sustainable solutions**.
 
-🔭 **Currently:** Deepening my expertise in **AI Agents** and **Multi-Agent Protocols (MCP)**.
-🛰️ **Recent:** Technical Trainer at **India Space Lab**, focusing on **GIS** and **Aerospace modeling**.
-🏆 **Leadership:** Founder & Chairperson of the **IEEE Student Branch (BBDU)**, leading a community of 70+ members.
-📜 **Published:** Author of "Smart Bin: An IoT-Based Waste Segregation System" presented at **ADG 2025**.
+* 🔭 **Currently:** Deepening my expertise in **AI Agents** and **Multi-Agent Protocols (MCP)**.
+* 🛰️ **Recent Experience:** Technical Trainer at **India Space Lab**, specializing in **GIS spatial analysis** and **aerospace modeling**.
+* 🏆 **Leadership:** Founder & Chairperson of the **IEEE Student Branch (BBDU)**, leading a community of 70+ members.
+* 📜 **Published Researcher:** Author of "Smart Bin: An IoT-Based Waste Segregation System" presented at **ADG 2025**.
 
 ---
 
