@@ -1,7 +1,6 @@
 <div align="center">
   
-  <!-- 🚀 BANNER IMAGE: Replace the 'src' link below with the link to your custom designed banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,0077B5,4285F4&height=250&section=header&text=ANUSHKA%20GUPTA&fontSize=60&fontColor=ffffff&desc=Senior%20AI/ML%20Engineer&descSize=22&descAlignY=65" alt="Anushka Gupta Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0A192F,112240,233554&text=Anushka%20Gupta&fontSize=65&fontColor=E6F1FF&desc=Senior%20AI/ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend&descSize=20&descColor=64FFDA&descAlignY=72" alt="Anushka Gupta Profile Banner" width="100%" />
 
   <br/>
   <br/>
