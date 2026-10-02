@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0f172a,1e293b,334155&text=Anushka%20Gupta&fontSize=65&fontColor=f8fafc&desc=Senior%20AI/ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend&descSize=20&descColor=94a3b8&descAlignY=72&v=aesthetic1" alt="Anushka Gupta Profile Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=249&color=gradient&customColorList=0A192F,112240,233554&text=%20Anushka%20Gupta%20&fontSize=64&fontColor=E6F1FF&desc=Senior%20AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend&descSize=20&descColor=64FFDA&descAlignY=72&section=header&reRender=true" alt="Anushka Gupta Profile Banner" width="100%" />
 
   <br/>
   <br/>
