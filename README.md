@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,0077B5,4285F4&height=250&section=header&text=Anushka%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Senior%20AI%2FML%20Engineer%20%7C%20Backend%20%26%20Cloud&descSize=22&descAlignY=65" alt="Profile Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,0077B5,4285F4&height=250&section=header&text=Anushka%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Senior%20AI%2FML%20Engineer%20%7C%20Backend%20and%20Cloud&descSize=22&descAlignY=65" alt="Profile Banner" width="100%" />
 
   <br/>
 
@@ -36,7 +36,7 @@ I am a **Senior AI/ML Engineer** specializing in bridging the gap between advanc
   <img src="https://img.shields.io/badge/Computer_Vision-5C5C5C?style=flat-square&logo=opencv&logoColor=white" alt="CV" />
 </p>
 
-### ⚙️️ Backend & Database
+### ⚙️ Backend & Database
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -45,7 +45,7 @@ I am a **Senior AI/ML Engineer** specializing in bridging the gap between advanc
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-### ☁️️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2" />
   <img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS RDS" />
