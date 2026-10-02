@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=120&lines=%3E_Hi%2C+I'm+Anushka+Gupta;%3E_Senior+AI%2FML+Engineer;%3E_Backend+%26+Cloud+Development" alt="Terminal Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=ANUSHKA%20GUPTA&fontSize=55&fontColor=2196F3&desc=Senior%20AI%2FML%20Engineer%20%7C%20Generative%20AI%20and%20LLMs%20%7C%20Backend%20Development&descSize=22&descColor=ffffff" alt="Profile Banner" width="100%" />
 
   <br/>
 
@@ -16,7 +16,7 @@
 
 ## 💫 Professional Summary
 
-I am a **Senior AI/ML Engineer** specializing in bridging the gap between advanced generative AI models and robust backend systems. As a Computer Science Engineering graduate (AI Specialization) from BBDU, my focus is on building scalable, production-ready AI solutions for real-world applications.
+I am a **Senior AI/ML Engineer** specializing in bridging the gap between advanced generative AI models and robust backend systems. As a Computer Science Engineering graduate (AI Specialization) from BBDU (CGPA: 7.58/10), my focus is on building scalable, production-ready AI solutions for real-world applications.
 
 - 🏢 **Currently:** Senior Engineer (AI & ML) at **SWAIS**, architecting LLM-powered EdTech solutions.
 - 🚀 **Core Competencies:** Generative AI, Multi-Agent Systems, Backend APIs (FastAPI/Node.js), and Cloud Deployments (AWS/GCP).
