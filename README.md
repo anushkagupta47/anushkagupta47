@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,0077B5,4285F4&height=250&section=header&text=Anushka%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Senior%20AI%2FML%20Engineer%20%7C%20Backend%20and%20Cloud&descSize=22&descAlignY=65" alt="Profile Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=120&lines=%3E_Hi%2C+I'm+Anushka+Gupta;%3E_Senior+AI%2FML+Engineer;%3E_Backend+%26+Cloud+Development" alt="Terminal Header" />
 
   <br/>
 
