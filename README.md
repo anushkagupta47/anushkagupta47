@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=ANUSHKA%20GUPTA&fontSize=55&fontColor=2196F3&desc=Senior%20AI%2FML%20Engineer%20%7C%20Generative%20AI%20and%20LLMs%20%7C%20Backend%20Development&descSize=22&descColor=ffffff" alt="Profile Banner" width="100%" />
-
-  <br/>
+  
+  <h1>ANUSHKA GUPTA</h1>
+  <h3>Senior AI/ML Engineer | Generative AI & LLMs | Backend Development</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/anushkagupta47" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<br/>
+---
 
 ## 💫 Professional Summary
 
