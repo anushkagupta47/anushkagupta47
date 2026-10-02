@@ -1,39 +1,38 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
 
 <h3 align="center">
-  AI Engineer | Software Developer | Data Scientist | IEEE Chairperson
+  AI/ML Engineer | Generative AI & LLMs | Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20(GenAI%20%26%20LLMs);Full%20Stack%20Developer%20(Django);Geospatial%20%26%20Space%20Tech%20Analyst;IEEE%20Leader%20(70%2B%20Members)&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+AI%2FML+Engineer;Generative+AI+%26+LLMs;Backend+%26+Cloud+Development;Ex-Chairperson+IEEE+BBDU&center=true&width=650&height=50">
 </p>
 
 ---
 
 ## 💫 About Me
-I am a final-year **Computer Science Engineering** student specializing in **Artificial Intelligence** at **Babu Banarasi Das University**. I specialize in bridging the gap between hardware and software, with research and industry experience ranging from **Space Technology** to **IoT-based sustainable solutions**.
+I am a Computer Science Engineering graduate (Specialization in Artificial Intelligence) from Babu Banarasi Das University. I specialize in bridging the gap between advanced AI models and backend systems, focusing on **Generative AI, LLMs, AI Agents, and scalable cloud applications**.
 
-* 🔭 **Currently:** Deepening my expertise in **AI Agents** and **Multi-Agent Protocols (MCP)**.
-* 🛰️ **Recent Experience:** Technical Trainer at **India Space Lab**, specializing in **GIS spatial analysis** and **aerospace modeling**.
-* 🏆 **Leadership:** Founder & Chairperson of the **IEEE Student Branch (BBDU)**, leading a community of 70+ members.
-* 📜 **Published Researcher:** Author of "Smart Bin: An IoT-Based Waste Segregation System" presented at **ADG 2025**.
+* 🔭 **Currently:** Working as a **Senior Engineer (AI & ML)** at Saraf Worldsphere AI Services (SWAIS), building LLM-powered EdTech solutions.
+* 🌱 **Fellowships:** Selected for the **Samsung Fellowship - ISWDP (Cohort 8)** and recognized as a **National Finalist for the Gandhi Fellowship**.
+* 🏆 **Leadership:** Founder & Ex-Chairperson of the **IEEE Student Branch (BBDU)**.
+* 📜 **Research:** Author of "Smart Bin: AI & Edge IoT Hardware Platform," selected for presentation at **ADG 2025** (publication in process).
 
 ---
 
 ## 🚀 Professional Experience
 
-### 🛰️ Technical Trainer | India Space Lab (Feb 2026 - March 2026)
-* Performed shortest-path and service area network analysis using **QGIS**.
-* Managed GIS spatial databases by digitizing raster maps into vector layers.
-* Parametrically modeled a **Cessna 210 (NASA variant)** using **OpenVSP**.
+### 🤖 Senior Engineer (AI & ML) | Saraf Worldsphere AI Services (SWAIS) (Aug 2026 - Present)
+* Driving Generative AI and LLM-powered EdTech solutions, including Adaptive Learning and multilingual AI applications.
+* Managing AWS EC2/RDS, AI-backend integration, cloud deployment, and production troubleshooting across AI-powered systems.
 
-### 🤖 AI Software Engineer | REXai (Nov 2023 - March 2024)
-* Architected scalable pipelines for complex data processing in production-oriented environments.
-* Optimized model scalability and collaborated on backend logic for enterprise AI solutions.
+### 🧠 AIML Engineer | Saraf Worldsphere AI Services (SWAIS) (June 2026 - Aug 2026)
+* Implemented Generative AI features using Google Gemini and GCP, integrated with backend workflows and PostgreSQL.
+* Handled AWS EC2-RDS connectivity and port configuration to support reliable application deployment.
 
-### 📊 Data Analytics Simulation | Deloitte Australia (July 2025)
-* Analyzed forensic datasets to derive actionable business insights and improve stakeholder transparency.
-* Developed interactive **Tableau** dashboards to visualize complex, large-scale data.
+### 🛰️ Past Experience
+* **Technical Trainer** @ India Space Lab (Feb 2026 - March 2026)
+* **AI Software Engineer** @ REXai (Nov 2023 - March 2024)
 
 ---
 
@@ -41,29 +40,26 @@ I am a final-year **Computer Science Engineering** student specializing in **Art
 
 | Category | Skills |
 | :--- | :--- |
-| **AI/ML & GenAI** | LLMs, AI Agents (MCP), Neural Networks, NLP, Computer Vision, AutoML |
-| **Programming** | Python, SQL, JavaScript, C, Django, HTML5, CSS3, React |
-| **Data Science** | Tableau, Power BI, QGIS, Statsmodels, Pandas, NumPy |
-| **Core CS** | Data Structures & Algorithms, Operating Systems, IoT, System Design |
+| **AI, ML & Data Science** | Generative AI, LLMs, AI Agents, Multi-Agent Systems, NLP, Deep Learning, Neural Networks, Computer Vision |
+| **Programming & Frameworks**| Python, SQL, JavaScript, FastAPI, Node.js, PostgreSQL, HTML5, CSS3 |
+| **Cloud & Infrastructure**  | AWS EC2, AWS RDS, Google Cloud Platform (GCP) |
+| **Tools & Platforms**       | Git, GitHub, VS Code, Google Colab |
 
 ---
 
 ## 📂 Key Projects
 
-### ♻️ Smart Bin: Full-Stack IoT Solution
-* Developed an automated waste segregation system using **Arduino**, humidity sensors, and servo motors.
-* Built a web platform to promote waste management and income opportunities for ragpickers.
-
-### 🧠 Real-Time Recognition Engines
-* **Speech Emotion Recognition:** Utilized **MFCCs** and pitch analysis for real-time predictions.
-* **Digit Recognition:** Integrated **HOG** and **Zernike moments** for high-accuracy feature extraction.
+### ♻️ Smart Bin: AI & Edge IoT Hardware Platform
+* Developed AI logic for parsing hardware sensor telemetry into structured database records.
+* Built an automated wet/dry waste segregation system using Arduino, humidity and ultrasonic sensors, and servo motors.
+* **Publication:** Selected for presentation at the International Conference on AI in Digital Growth (ADG 2025), IEEE Computational Intelligence Society.
 
 ---
 
-## 🏅 Honors & Certifications
-* **IEEE SPS UP Chapter Student Award 2024:** For exemplary technical leadership.
-* **ISRO (IIRS) Certified:** Space Science & Technology and RS & GIS Applications.
-* **Google Kaggle:** 5-Day AI Agents Intensive Course.
+## 🏅 Fellowships, Honors & Certifications
+* **Fellowships:** Samsung Fellowship - ISWDP (Cohort 8) | National Finalist, Gandhi Fellowship.
+* **Awards:** Nominated for the IEEE SPS UP Chapter Student Award 2024.
+* **Certifications:** Natural Language Processing, AI & Deep Learning (Infosys Springboard) | AI For India 2.0 (GUVI) | Space Science & Technology / RS & GIS Applications (ISRO IIRS).
 
 ---
 
@@ -79,9 +75,6 @@ I am a final-year **Computer Science Engineering** student specializing in **Art
   <a href="https://leetcode.com/u/anushka_47/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="https://www.hackerrank.com/profile/anushkag472004" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-  </a>
   <a href="mailto:anushkag472004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -90,5 +83,5 @@ I am a final-year **Computer Science Engineering** student specializing in **Art
 ---
 
 <p align="center">
-  <i>"Passionate about leveraging AI and Geospatial data to solve real-world problems."</i>
+  <i>"Building scalable Generative AI solutions and robust backend infrastructure."</i>
 </p>
