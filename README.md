@@ -1,7 +1,6 @@
 <div align="center">
   
-  <!-- 🚀 UPLOAD YOUR BANNER IMAGE TO YOUR GITHUB REPO AND CHANGE THE SRC LINK BELOW -->
-  <img src="banner.png" alt="Anushka Gupta Profile Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=249&color=gradient&customColorList=0A192F,112240,233554&text=%20Anushka%20Gupta%20&fontSize=64&fontColor=E6F1FF&desc=Senior%20AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Backend&descSize=20&descColor=64FFDA&descAlignY=72&section=header&reRender=true" alt="Anushka Gupta Profile Banner" width="100%" />
 
   <br/>
   <br/>
