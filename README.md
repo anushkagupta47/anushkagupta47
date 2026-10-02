@@ -1,7 +1,10 @@
 <div align="center">
   
-  <h1>ANUSHKA GUPTA</h1>
-  <h3>Senior AI/ML Engineer | Generative AI & LLMs | Backend Development</h3>
+  <!-- 🚀 BANNER IMAGE: Replace the 'src' link below with the link to your custom designed banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,0077B5,4285F4&height=250&section=header&text=ANUSHKA%20GUPTA&fontSize=60&fontColor=ffffff&desc=Senior%20AI/ML%20Engineer&descSize=22&descAlignY=65" alt="Anushka Gupta Banner" width="100%" />
+
+  <br/>
+  <br/>
 
   <p>
     <a href="https://www.linkedin.com/in/anushkagupta47" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
